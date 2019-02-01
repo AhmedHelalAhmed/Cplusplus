@@ -1,4 +1,0 @@
-student name : JDxJY
-math mark : 60
-Arabic mark : 99
-English mark : 96
