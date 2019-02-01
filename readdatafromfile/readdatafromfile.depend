@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1549001391 source:/home/ahmedhelal/dev/Cplusplus/readdatafromfile/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Mark.h"
+	"Student.h"
+	<cmath>
+
+1548999980 /home/ahmedhelal/dev/Cplusplus/readdatafromfile/Student.h
+	"Mark.h"
+
+1548965366 /home/ahmedhelal/dev/Cplusplus/readdatafromfile/Mark.h
+
+1548966294 source:/home/ahmedhelal/dev/Cplusplus/readdatafromfile/Mark.cpp
+	<iostream>
+	"Mark.h"
+
+1549001223 source:/home/ahmedhelal/dev/Cplusplus/readdatafromfile/Student.cpp
+	"Mark.h"
+	"Student.h"
+	<iostream>
+	"string.h"
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548949346 source:/home/ahmedhelal/dev/Cplusplus/iostreamfiles/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<fstream>
+

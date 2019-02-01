@@ -1,0 +1,22 @@
+max mark in math 90
+the top student in math is 
+student name : YTCWu
+math mark : 90
+Arabic mark : 93
+English mark : 84
+max mark in english 96
+the top student in english is 
+student name : JDxJY
+math mark : 60
+Arabic mark : 99
+English mark : 96
+max mark in arabic 99
+the top student in arabic is 
+student name : JDxJY
+math mark : 60
+Arabic mark : 99
+English mark : 96
+number of success : 4
+number of fail : 22
+precentage of success : 15
+precentage of fail : 85
